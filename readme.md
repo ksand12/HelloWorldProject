@@ -27,7 +27,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 How to download all the at home
-##composer self-update
-##composer install (composer update)
-##из файла .env.example созднать /.env
+## composer self-update
+## composer install (composer update)
+## из файла .env.example созднать /.env
 
